@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854242711686",
+    "project_id": "smart-shopper-7912b",
+    "storage_bucket": "smart-shopper-7912b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854242711686:android:9c8df5c864b1ff928b1907",
+        "android_client_info": {
+          "package_name": "com.shopper.smart_shopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854242711686-tpt0c07pud0aul24thh8vo888iklg3oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMv32uhtYeW0iL-6pd5n399bDsQjfECWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854242711686-tpt0c07pud0aul24thh8vo888iklg3oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
